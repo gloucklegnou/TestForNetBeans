@@ -1,4 +1,4 @@
-#Exemple de projet GIT avec sous projets NetBeans
+# Exemple de projet GIT avec sous projets NetBeans
 
 Ce projet git contient deux sous projet d'application web Netbeans.
 
