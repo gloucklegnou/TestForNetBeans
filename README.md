@@ -1,17 +1,20 @@
 # Exemple de projet GIT avec sous projets NetBeans
 
-Ce projet git contient dans le dossier NetBeans un projet d'application web Netbeans.
+Ce projet git contient dans le dossier NetBeans un projet d'application web Netbeans. Il montre :
 
-Il montre comment dans le fichier `.gitignore` exclure:
+1. comment définir le fichier `.gitignore`
+2. comment faire en sorte que tous les répertoires indispensables à l'application web soient pris en compte par git, même si ils sont vides.
+
+## 1. Le fichier `.gitignore`
+
+Ce fichier définit les règles qui permettent d'exclure:
 
 * les éléments construits par le compilateur:
-
   * repertoire `build`
-  
   * repertoire `dist`
-  
 * les fichiers de configuration privés du projet netbeans
-
   * répertoire `nbproject\private`
+  
+  ## 2. Les répertoires indispensables
   
  
