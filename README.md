@@ -1,8 +1,8 @@
 # Exemple de projet GIT avec sous projets NetBeans
 
-Ce projet git contient deux sous projet d'application web Netbeans.
+Ce projet git contient dans le dossier NetBeans un projet d'application web Netbeans.
 
-Il montre comment dans le fichier .gitignore exclure:
+Il montre comment dans le fichier `.gitignore` exclure:
 
 * les éléments construits par le compilateur:
 
