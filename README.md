@@ -6,12 +6,12 @@ Il montre comment dans le fichier .gitignore exclure:
 
 * les éléments construits par le compilateur:
 
-  ** repertoire `build`
+  * repertoire `build`
   
-  ** repertoire `dist`
+  * repertoire `dist`
   
 * les fichiers de configuration privés du projet netbeans
 
-  ** répertoire `nbproject\private`
+  * répertoire `nbproject\private`
   
  
