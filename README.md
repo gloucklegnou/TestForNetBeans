@@ -19,6 +19,6 @@ Ce fichier définit les règles qui permettent d'exclure:
 
 Pour qu'un répertoire soit enregistré dans les commits git, il ne faut pas qu'il soit vide. Aussi pour que le squelette de projet d'application web `DemoProject` soit *'complet'* des fichiers 'README.md' ont été ajoutés aux repertoires `WEB-INF` et `src/java` afin que ceux-ci ne soient pas vides et enregistrés sur github.
 
-
+![extra files](./images/extraFiles.png)
   
  
