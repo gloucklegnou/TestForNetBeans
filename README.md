@@ -10,8 +10,8 @@ Ce projet git contient dans le dossier NetBeans un projet d'application web Netb
 Ce fichier définit les règles qui permettent d'exclure:
 
 * les éléments construits par le compilateur:
-  * repertoire `build`
-  * repertoire `dist`
+  * répertoire `build`
+  * répertoire `dist`
 * les fichiers de configuration privés du projet netbeans
   * répertoire `nbproject\private`
   
