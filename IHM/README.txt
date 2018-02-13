@@ -1,1 +1,0 @@
-les docs de conception de l'IHM
